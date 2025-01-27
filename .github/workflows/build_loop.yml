@@ -284,7 +284,7 @@ jobs:
           dexcom_upload_readings \
           future_carbs_4h \
           2002 \
-          basal_lock\
+          basal_lock \
           negative_insulin
 
           # the final customization listed above CANNOT have a continuation character
