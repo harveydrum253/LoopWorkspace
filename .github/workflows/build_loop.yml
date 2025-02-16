@@ -285,6 +285,7 @@ jobs:
           future_carbs_4h \
           2002 \
           basal_lock \
+          overide_sens \
           negative_insulin
 
           # the final customization listed above CANNOT have a continuation character
